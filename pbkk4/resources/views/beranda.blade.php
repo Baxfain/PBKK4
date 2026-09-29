@@ -12,6 +12,7 @@
         <div class="mt-4">
             <a href="{{ route('profil') }}" class="btn btn-primary mx-2">Lihat Profil Mahasiswa</a>
             <a href="{{ route('ide.riset') }}" class="btn btn-outline-secondary mx-2">Eksplorasi Ide Agentic AI</a>
+            <a href="{{ route('feedback.form') }}" class="btn btn-success px-4 py-2">Beri Umpan Balik (Feedback)</a>
         </div>
     </div>
 @endsection

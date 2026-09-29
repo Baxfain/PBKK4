@@ -19,6 +19,7 @@
                     <li class="nav-item"><a class="nav-link" href="{{ route('beranda') }}">Beranda</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('profil') }}">Profil Mahasiswa</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('ide.riset') }}">Ide Riset</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ route('feedback.form') }}">Feedback</a></li>
                 </ul>
             </div>
         </div>
